@@ -63,6 +63,7 @@ Veiller à avoir le chevron `>` pour passer les commandes, sinon c'est un champ 
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Code source de la page|<kbd>CTRL</kbd> + <kbd>U</kbd>|||||||||
 |Gestionnaire de favoris|<kbd>CTRL</kbd> + <kbd>&#8679;</kbd> + <kbd>O</kbd>||<kbd>CTRL</kbd> + <kbd>&#8679;</kbd> + <kbd>B</kbd>||<kbd>CTRL</kbd> + <kbd>B</kbd>|<kbd>CTRL</kbd> + <kbd>&#8679;</kbd> + <kbd>O</kbd>||||
+|Outils de développement|<kbd>CTRL</kbd> + <kbd>&#8679;</kbd> + <kbd>I</kbd>||||||||||
 
 ---
 
