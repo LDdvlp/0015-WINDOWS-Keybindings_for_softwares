@@ -1,6 +1,6 @@
 |*Doc. #*|*Rédacteur*|*Création*|*Mise à jour*|
 |:---:|:---:|---:|:---|
-|***0015***|*Loïc Drouet*|_Mercredi 06 juillet 2023_|_Jeudi 21 septembre 2023_|
+|***0015***|*Loïc Drouet*|_Mercredi 06 juillet 2023_|_Jeudi 09 novembre 2023_|
 
 # Windows : Keyboard shortcuts for softwares
 
@@ -11,12 +11,28 @@
 <!-- code_chunk_output -->
 
 1. [Windows : Keyboard shortcuts for softwares](#windows--keyboard-shortcuts-for-softwares)
-    1. [VS Code  ](#vs-code-1-2)
-    2. [Navigateurs Web](#navigateurs-web)
-    3. [HTML Arrow Symbol, Arrow Entity and ASCII Arrow Character Code Reference](#html-arrow-symbol-arrow-entity-and-ascii-arrow-character-code-referencehttpswwwtoptalcomdesignershtmlarrowsarrows)
+    1. [Windows ](#windows-3)
+        1. [Windows sur plusieurs écrans](#windows-sur-plusieurs-écrans)
+    2. [VS Code  ](#vs-code-1-2)
+    3. [Navigateurs Web](#navigateurs-web)
+    4. [HTML Arrow Symbol, Arrow Entity and ASCII Arrow Character Code Reference](#html-arrow-symbol-arrow-entity-and-ascii-arrow-character-code-referencehttpswwwtoptalcomdesignershtmlarrowsarrows)
         1. [Usefull HTML Arrows](#usefull-html-arrows)
 
 <!-- /code_chunk_output -->
+
+---
+
+## Windows [^3]
+[^3]: [Windows sur plusieurs écrans : 4. Utiliser les raccourcis clavier](https://www.blogdumoderateur.com/astuces-windows-plusieurs-ecrans/)
+
+### Windows sur plusieurs écrans
+
+|Raccourci|Action|Observations|
+|:---:|:---:|:---:|
+|<kbd>WIN</kbd>+<kbd>P</kbd>|Choisir un mode d’affichage|---|
+|<kbd>WIN</kbd>+<kbd>SHIFT</kbd>+<kbd>&#8678;</kbd><br /><kbd>WIN</kbd>+<kbd>SHIFT</kbd>+<kbd>&#8680;</kbd>|Déplacer une fenêtre d’un moniteur vers un autre|---|
+|<kbd>WIN</kbd>+<kbd>&#8679;</kbd>|Aggrandir la fenêtre en plein écran|---|
+|<kbd>WIN</kbd>+<kbd>&#8681;</kbd>|Réduire la fenêtre affichée|---|
 
 ---
 
@@ -42,8 +58,8 @@ Veiller à avoir le chevron `>` pour passer les commandes, sinon c'est un champ 
 |<kbd>CTRL</kbd>+<kbd>K</kbd> <kbd>CTRL</kbd>+<kbd>S</kbd>|Afficher les raccourcis et paramétrages|---|
 |<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd>|Créer un nouveau fichier|À paramétrer|
 |<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd>|Créer un nouveau dossier|À paramétrer|
-|<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd> `dossier_1/dossier_2/fichier`|Créer un nouveau fichier avec dossiers imbriqués|À paramétrer|
-|<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd> `dossier_1/dossier_2/dossier`|Créer un nouveau dossier avec dossiers imbriqués|À paramétrer|
+|<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd><br />`dossier_1/dossier_2/fichier`|Créer un nouveau fichier avec dossiers imbriqués|À paramétrer|
+|<kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>D</kbd><br />`dossier_1/dossier_2/dossier`|Créer un nouveau dossier avec dossiers imbriqués|À paramétrer|
 |<kbd>Suppr</kbd>|Supprimer|---|
 |<kbd>F2</kbd>|Renommer|---|
 |<kbd>Esc</kbd>|Annuler|---|
