@@ -1,6 +1,6 @@
 |*Doc. #*|*Rédacteur*|*Création*|*Mise à jour*|
 |:---:|:---:|---:|:---|
-|***0015***|*Loïc Drouet*|_Mercredi 06 juillet 2023_|_Jeudi 09 novembre 2023_|
+|***0015***|*Loïc Drouet*|_Mercredi 06 juillet 2023_|_Lundi 25 décembre 2023_|
 
 # Windows : Keyboard shortcuts for softwares
 
@@ -64,7 +64,7 @@ Veiller à avoir le chevron `>` pour passer les commandes, sinon c'est un champ 
 |<kbd>F2</kbd>|Renommer|---|
 |<kbd>Esc</kbd>|Annuler|---|
 |<kbd>Ctrl</kbd> + <kbd>:</kbd>|Mettre le code en commentaire|---|
-|<kbd>Shift</kbd> + <kbd>Alt</kbd>+ <kbd>F</kbd>|Formater le documet document|---|
+|<kbd>Shift</kbd> + <kbd>Alt</kbd>+ <kbd>F</kbd>|Formater le document|---|
 |<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>&#8681;</kbd>|Copier la ligne selectionnée ou le bloc sélectionné en dessous de la sélection|---|
 |<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>&#8679;</kbd>|Copier la ligne selectionnée ou le bloc sélectionné au dessus de la sélection|---|
 |<kbd>Alt</kbd> + <kbd>Click</kbd>|Créer des curseurs secondaires|---| 
